@@ -1,0 +1,15 @@
+<?php
+
+$lang['matrix-style.css'] = 'http://localhost/evol/public/css/matrix-style_ar.css';
+
+$lang['Home'] = 'ÇáÑÆíÓíÉ';
+$lang['cancel'] = 'ÇáÛÇÁ';
+$lang['logout'] = 'ÊÓÌíá ÇáÎÑæÌ';
+$lang['username'] = 'ÇÓã ÇáãÓÊÎÏã';
+$lang['add'] = 'ÇÖÇÝÉ';
+$lang['password'] = 'ßáãÉ ÇáãÑæÑ';
+$lang['login'] = 'ÊÓÌíá ÇáÏÎæá';
+
+
+
+
